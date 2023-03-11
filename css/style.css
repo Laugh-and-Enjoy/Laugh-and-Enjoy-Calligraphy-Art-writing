@@ -263,13 +263,16 @@ body {
 
 @media (max-width:600px) {
   .main h1 {
-    font-size: 32px;
+    font-size: 28px;
   }
   .main h2 {
-    font-size: 28px;
+    font-size: 26px;
   }
   .main h3 {
     font-size: 16px;
+  }
+  .main p {
+    font-size: 12px;
   }
 }
 
